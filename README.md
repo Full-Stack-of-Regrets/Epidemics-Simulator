@@ -1,0 +1,1 @@
+# Simularea Epidemiei pentru Modelarea Răspândirii Bolilor și Imunității în Rețele Sociale
